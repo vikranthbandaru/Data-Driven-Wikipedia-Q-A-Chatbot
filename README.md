@@ -50,17 +50,11 @@ This chatbot application uses Retrieval-Augmented Generation (RAG) to deliver bo
 - Achieved 92% response accuracy rate
 - Created an intuitive interface with real-time analytics
 - Implemented robust error handling for edge cases
-
-## Future Improvements
-
-- Personalization of chit-chat responses
-- Expansion to additional topics and languages
-- Incorporation of multimedia content (images, videos)
-- Enhanced query enrichment and faster summarization
+  
 
 ## Installation and Setup
 
-\\\ash
+\\\
 # Clone the repository
 git clone https://github.com/vikranthbandaru/Data-Driven-Wikipedia-Q-A-Chatbot-.git
 
