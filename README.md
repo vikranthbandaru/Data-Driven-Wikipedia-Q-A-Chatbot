@@ -54,7 +54,6 @@ This chatbot application uses Retrieval-Augmented Generation (RAG) to deliver bo
 
 ## Installation and Setup
 
-\\\
 # Clone the repository
 git clone https://github.com/vikranthbandaru/Data-Driven-Wikipedia-Q-A-Chatbot-.git
 
@@ -66,6 +65,6 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
-\\\
+
 
 
