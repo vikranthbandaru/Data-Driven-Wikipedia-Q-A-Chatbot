@@ -1,0 +1,47 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large files
+Q&A with RAG.mp4
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Project specific
+data/raw/
+"@ | Out-File -FilePath .gitignore -Encoding ascii
